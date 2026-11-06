@@ -1,7 +1,8 @@
-# P5JSTemplate
-P5JS / Skeleton mashup for students
-
-
-## Notes
-
-Even tough normalise.css and skeleton.css are linked to CDN I left copy of skeleton.css in the css folder for reference purposes while building style.css;
+Partindo da sample fornecida pelo professor, iniciei o projeto, 
+busquei incluir um color picker atraves do P5Js,
+comecei a personalizar o codigo para realizar operações com condicionais,
+inicialmente quis fazer uma borracha e uma caneta, no entanto mesmo pedindo ajuda ao Copilot, não estava a resultar,
+analisei a contrução do codigo e busquei uma outra alternativa, 
+    if click '+' tamanho do brush aumenta
+    if click '-' tamanho do brush diminui
+    if click 'c' repetir o background e limpar o desenho feito
